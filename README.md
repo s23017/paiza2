@@ -1,7 +1,7 @@
 # paiza2
 
 
-##コードガール
+#コードガール
 ![コードガール](./image/codinggirl.png)
 
 #ハッカソン
