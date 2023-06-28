@@ -1,10 +1,10 @@
 # paiza2
 
 
-#コードガール
+# コードガール
 ![コードガール](./image/codinggirl.png)
 
-#ハッカソン
+# 恋するハッカソン
 - [ショートヘア](./hackathon/h_short.py)
 - [ロングヘア](./hackathon/h_longhear.py)
 - [ポニーテール](./hackathon/h_ponytail.py)
@@ -12,4 +12,5 @@
 - [おさげ](./hackathon/h_osage.py)
 - [たれ目](./hackathon/h_tareme.py)
 - [つり目](./hackathon/h_turime.py)
-#彼女
+
+# プログラミングで彼女を作る
