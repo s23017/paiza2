@@ -2,7 +2,7 @@
 
 
 #コードガール
-![コードガール](./image.codinggirl.png)
+![コードガール](./image/codinggirl.png)
 
 #ハッカソン
 
