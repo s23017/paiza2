@@ -12,5 +12,6 @@
 - [おさげ](./hackathon/h_osage.py)
 - [たれ目](./hackathon/h_tareme.py)
 - [つり目](./hackathon/h_turime.py)
+- [メガネ](./hackathon/h_megane.py)
 
 # プログラミングで彼女を作る
