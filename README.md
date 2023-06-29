@@ -13,5 +13,7 @@
 - [たれ目](./hackathon/h_tareme.py)
 - [つり目](./hackathon/h_turime.py)
 - [メガネ](./hackathon/h_megane.py)
+- [Cute衣装](./hackathon/h_cutecostum.py)
+- [Sexy衣装](./hackathon/h_sexycostum.py)
 
 # プログラミングで彼女を作る
