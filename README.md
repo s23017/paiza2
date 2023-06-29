@@ -17,3 +17,6 @@
 - [Sexy衣装](./hackathon/h_sexycostume.py)
 
 # プログラミングで彼女を作る
+- [つり目](./kanojo/k_turime.py)
+- [ショートヘア](./kanojo/k_short.py)
+- [ロングヘア](./kanojo/k_longhear.py)
