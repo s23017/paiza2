@@ -18,5 +18,11 @@
 
 # プログラミングで彼女を作る
 - [つり目](./kanojo/k_turime.py)
+- [眼帯](./kanojo/gantai.py)
+- [ネコ耳](./kanojo/nekomimi.py)
 - [ショートヘア](./kanojo/k_short.py)
 - [ロングヘア](./kanojo/k_longhear.py)
+- [ポニーテール](./kanojo/ponytail.py)
+- [ツインテール](./kanojo/twintail.py)
+- [セーラー服](./kanojo/se-ra-huku.py)
+- [カーディガン](./kanojo/cardigan.py)
